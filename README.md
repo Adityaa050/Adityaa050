@@ -1,6 +1,13 @@
-<h3 align="center">A passionate Coder from Tech World!!!</h3>
+<
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hey%20Everyone&fontSize=90)
 
-- 📫 How to reach me **adityateotia123456@gmail.com**
+
+
+<h1 align="center">Hi 👋, I'm Aditya Teotia</h1>
+<h3 align="center">A passionate Coder from Tech World!!!</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-28-gits&label=Profile%20views&color=0e75b6&style=flat" alt="Adityaa050" /> </p>
+
+- 📫 How to reach me: **<---->adityateotia123456@gmail.com<---->**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
