@@ -1,24 +1,86 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hey%20Everyone&fontSize=90)
 
+# 👋 Hi, I'm Aditya Teotia
 
+🎓 **B.Tech CSE | SRM Institute of Science and Technology (2022–2026)**  
+📍 Aspiring Machine Learning Engineer | Cloud Enthusiast | Data Explorer
 
-<h1 align="center">Hi 👋, I'm Aditya Teotia</h1>
-<h3 align="center">A passionate Coder from Tech World!!!</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-28-gits&label=Profile%20views&color=0e75b6&style=flat" alt="Adityaa050" /> </p>
+---
 
-- 📫 How to reach me: **<---->adityateotia123456@gmail.com<---->**
+## 🔍 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aditya-teotia-065426251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-teotia-065426251" height="30" width="40" /></a>
-</p>
+I'm a Computer Science undergrad passionate about **AI/ML**, **Cloud-based Solutions**, and **Data-Driven Insights**. I love solving real-world problems using scalable and intelligent systems. From cloud-deployed ML pipelines to quantum-inspired models, I enjoy pushing the boundaries of innovation and collaboration.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaa050&show_icons=true&locale=en&layout=compact" alt="adityaa050" /></p>
+## 🛠️ Skills
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityaa050&show_icons=true&locale=en" alt="adityaa050" /></p>
+- **Languages:** Python, C/C++, SQL, MATLAB, HTML, CSS  
+- **AI/ML & Data Science:** GenAI, Machine Learning, Deep Learning, NLP, Computer Vision  
+- **Tools & Platforms:** Google Cloud AI, Google Colab, AWS, MATLAB, PostgreSQL, NumPy, Excel, ChatGPT  
+- **Soft Skills:** Team Collaboration, Problem Solving, Analytical Thinking, Communication
 
+---
 
+## 💼 Experience
+
+### AI/ML Virtual Intern – Google For Developers  
+📅 *Apr 2024 – Jun 2024*  
+- Built and deployed ML models using Google Cloud AI tools.  
+- Conducted predictive data analysis for real-world optimization.  
+- Enhanced collaboration with scalable cloud-based ML workflows.
+
+---
+
+## 🚀 Projects
+
+### 📊 [eCommerce Transactions Data Analysis and Predictive Modeling](https://github.com/Adityaa050/Data-Science-Assignment-eCommerce-Transactions-Dataset)  
+📅 *Sep 2024 – Dec 2024*  
+- Analyzed transactional data to derive trends and insights.  
+- Developed predictive models using Python (Pandas, NumPy, Matplotlib).  
+
+### 🌠 [Machine Learning for Star Type Classification](https://github.com/Adityaa050/Astrophysics-Image-Classification)  
+📅 *Oct 2024 – Sep 2024*  
+- Classified stars based on physical attributes using ML algorithms.  
+- Processed data for optimal classification across 240 stars.
+
+### 💹 Predicting Unethical Stock Market Manipulation *(Ongoing)*  
+📅 *Jan 2025 – Present*  
+- NLP + sentiment analysis on live stock market and news data.  
+- Real-time, cloud-based monitoring system for fraud detection.
+
+---
+
+## 🧪 Research
+
+### Investigating Quantum Learning Efficiency in Evolutionary Models  
+- Designed quantum circuits to simulate evolutionary adaptability.  
+- Improved predictive simulation accuracy by 25%.  
+- Compared classical vs quantum paradigms for survival modeling.  
+📄 *Status: Under Review (SCOPUS-indexed Journal)*
+
+---
+
+## 🏆 Achievements
+
+- 🥈 **2nd Place** – Data Samurai Hackathon, SRMIST (Feb 2025)  
+- 🏅 **Top 10 out of 2200+** – *Flagship Ideathon 2.0*, IIM Bangalore (2024)
+
+---
+
+## 📜 Certifications
+
+- AWS Academy – *Machine Learning Foundations*  
+- MATLAB – *Deep Learning OnRamp*  
+- CISCO – *Networking Basics*  
+- NPTEL – *Introduction to Database Systems*, *Programming in Java*  
+- DevTown – *Data Structures and Algorithms*
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 [GitHub](https://github.com/Adityaa050)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/adityateotia)  
+- 📧 [Email](mailto:adityateotia123456@gmail.com)
